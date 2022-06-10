@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/EmilioTello/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/EmilioTello/<OWNER>/<OWNER>/readme_header.png "Header")]
 - 👋 Hi, I’m @EmilioTello
 - 👀 I’m interested in ... all things software development and music
 - 📫 How to reach me ... emilio.a.tello@gmail.com
